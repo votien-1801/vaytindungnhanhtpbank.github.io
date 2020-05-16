@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 May 2020 17:03:10 at https://www.vayvontinchap.com.vn/?fbclid=IwAR0qlPk3vIMkAEX_YwuZP0wI0U7QBEGiIxaJern3POkJbIt-Rj3TQ9tLKUw +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.vayvontinchap.com.vn/?fbclid=IwAR0qlPk3vIMkAEX_YwuZP0wI0U7QBEGiIxaJern3POkJbIt-Rj3TQ9tLKUw -O1 "C:\My Web Sites\HTTP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:03:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.vayvontinchap.com.vn/?fbclid=IwAR0qlPk3vIMkAEX_YwuZP0wI0U7QBEGiIxaJern3POkJbIt-Rj3TQ9tLKUw)
+17:03:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.vayvontinchap.com.vn/demopage.me (from https://www.vayvontinchap.com.vn/?fbclid=IwAR0qlPk3vIMkAEX_YwuZP0wI0U7QBEGiIxaJern3POkJbIt-Rj3TQ9tLKUw)
+17:03:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.vayvontinchap.com.vn/ladi.me (from https://www.vayvontinchap.com.vn/?fbclid=IwAR0qlPk3vIMkAEX_YwuZP0wI0U7QBEGiIxaJern3POkJbIt-Rj3TQ9tLKUw)
+17:03:24	Warning: 	Link https://www.vayvontinchap.com.vn/pro5.me not scanned (follow robots meta tag)
+17:03:24	Warning: 	Link https://www.vayvontinchap.com.vn/demopage.me not scanned (follow robots meta tag)
+17:03:24	Warning: 	Link https://www.vayvontinchap.com.vn/ladi.me not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 36 links scanned, 32 files written (1809733 bytes overall) [1469781 bytes received at 104984 bytes/sec], 1608918 bytes transferred using HTTP compression in 30 files, ratio 77%, 3.6 requests per connection
+(1 errors, 5 warnings, 0 messages)
